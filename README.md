@@ -1,0 +1,2 @@
+# Early-Diabetes-Prediction-with-Machine-Learning-Classification-algorithms-
+Early-Stage Diabetes Risk Prediction using Machine Learning A machine learning-based project to predict early-stage diabetes risk . Implements Logistic Regression, Decision Tree, and Random Forest for classification and evaluates their performance with metrics and cross-validation. Random Forest achieved the highest accuracy (~98.6%).
